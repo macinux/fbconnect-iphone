@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/if/!svn/ver/1/fbconnect-iphone/samples/Connect
+END
+Connect_Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/if/!svn/ver/1/fbconnect-iphone/samples/Connect/Connect_Prefix.pch
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/if/!svn/ver/1/fbconnect-iphone/samples/Connect/main.m
+END
+ConnectAppDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/if/!svn/ver/1/fbconnect-iphone/samples/Connect/ConnectAppDelegate.m
+END
+SessionViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/if/!svn/ver/1/fbconnect-iphone/samples/Connect/SessionViewController.xib
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/if/!svn/ver/1/fbconnect-iphone/samples/Connect/Info.plist
+END
+SessionViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/if/!svn/ver/1/fbconnect-iphone/samples/Connect/SessionViewController.h
+END
+ConnectAppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/if/!svn/ver/1/fbconnect-iphone/samples/Connect/ConnectAppDelegate.h
+END
+MainWindow.xib
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/if/!svn/ver/1/fbconnect-iphone/samples/Connect/MainWindow.xib
+END
+SessionViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/if/!svn/ver/1/fbconnect-iphone/samples/Connect/SessionViewController.m
+END
